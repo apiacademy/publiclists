@@ -1,4 +1,6 @@
-## Incomplete list of well-known companies using Microservices Architecture
+## Well-known companies using Microservices Architecture
+
+This is an incomplete list and work-in-progress.
 
 1. Netflix
 2. Amazon

@@ -11,3 +11,4 @@ This is an incomplete list and work-in-progress.
 2. [SoundCloud](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
 1. [Uber](https://eng.uber.com/soa/)
 1. [Yelp](http://thenewstack.io/yelp-releases-a-microservices-framework/)
+2. [Disney](http://www.computerworld.com/article/2999969/application-development/modular-software-creates-agility-and-complexity.html?nsdr=true)

@@ -12,3 +12,4 @@ This is an incomplete list and work-in-progress.
 1. [Uber](https://eng.uber.com/soa/)
 1. [Yelp](http://thenewstack.io/yelp-releases-a-microservices-framework/)
 2. [Disney](http://www.computerworld.com/article/2999969/application-development/modular-software-creates-agility-and-complexity.html?nsdr=true)
+3. [Hudl](http://blog.sefindustries.com/notes-from-microservices-at-hudl/)
